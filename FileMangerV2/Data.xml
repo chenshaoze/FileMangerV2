@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <Dir key="1" name="调度平台">
+    <Dir key="11" name="应急预案">
+      <Dir key="111" name="常态预案">
+      </Dir>
+      <Dir key="112" name="临时预案">
+      </Dir>
+      <Dir key="113" name="警力调度">
+      </Dir>
+      <Dir key="114" name="等级勤务">
+      </Dir>
+      <Dir key="115" name="卡点布控">
+      </Dir>
+    </Dir>
+    <Dir key="12" name="通讯录">
+    </Dir>
+    <Dir key="13" name="值班报备">
+    </Dir>
+    <Dir key="14" name="电台呼叫">
+    </Dir>
+    <Dir key="15" name="调度流程">
+      <Dir key="151" name="信息报告">
+      </Dir>
+      <Dir key="152" name="警力调度">
+      </Dir>
+    </Dir>
+    <Dir key="16" name="处置规范">
+    </Dir>
+    <Dir key="17" name="信息报送">
+    </Dir>
+  </Dir>
+</Data>
